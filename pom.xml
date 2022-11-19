@@ -37,7 +37,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://http://3.112.97.108:8081/repository/srujan-RELEASES/url>
+		    <url>http://http://3.112.97.108:8081/repository/srujan-RELEASES/</url>
 		</repository>
   	</distributionManagement>
 	
