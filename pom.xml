@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://3.112.97.108:8081/repository/sample-SNAPSHOTS/</url>
+		    <url>http://3.114.209.91:8081/repository/sample-SNAPSHOTS/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://http://3.112.97.108:8081/repository/srujan-RELEASES/</url>
+		    <url>http://http://3.114.209.91:8081/repository/srujan-RELEASES/</url>
 		</repository>
   	</distributionManagement>
 	
